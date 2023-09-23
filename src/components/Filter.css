@@ -1,0 +1,23 @@
+.filtered{
+  position: absolute;
+  top: 100px;
+  left: 150px;
+  border-radius: 5px;
+}
+.filtered button{margin-left: 20px;
+  border-radius: 5px;
+}
+
+
+.btn_s.active {
+    background-color: rgb(253, 243, 234);
+    border-color: #FD8016;
+    color: #FD8016 ;
+    border: 2px solid  #FD8016;
+    border-radius: 5px;
+  }
+  .btn_s{font-weight: 600;
+    background-color: white;
+border: none;
+padding: 5px;
+}

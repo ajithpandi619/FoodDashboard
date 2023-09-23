@@ -1,0 +1,14 @@
+.ca_img {
+  margin: 0.5rem;
+}
+.card_text {
+  font-size: 10px;
+  margin-bottom: 0.2rem;
+}
+.card_price {
+  font-size: 14px;
+}
+
+.row {
+  --bs-gutter-x: -30.5rem;
+}
